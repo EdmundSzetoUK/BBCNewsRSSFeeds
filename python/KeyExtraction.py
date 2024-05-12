@@ -3,7 +3,7 @@ import numpy as np  # Make sure to import numpy
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load the dataset
-data = pd.read_csv('./BBC News Data Only.csv')  # Adjust the path if different
+data = pd.read_csv('./excel/BBC_News_Data_Edited.csv')  # Adjust the path if different
 
 # Check the column names and ensure we're using the correct one for text data
 print("Data columns:", data.columns)  # This will help confirm the text column name

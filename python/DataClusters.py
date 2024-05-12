@@ -53,7 +53,7 @@ def visualize_clusters(tfidf_matrix, clusters):
     plt.show()
 
 def main():
-    filepath = './BBC News Data Only.csv'  # Replace with your file path
+    filepath = './excel/BBC_News_Data_Edited.csv'  # Replace with your file path
     text_column = 'Title Header'  # Replace with the column containing text
     data = load_data(filepath)
     data = preprocess_data(data, text_column)
