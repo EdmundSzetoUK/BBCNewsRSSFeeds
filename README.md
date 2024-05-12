@@ -92,6 +92,8 @@ After processing raw data, it contains news articles, primarily focusing on seve
 - The articles are categorized under multiple categories which suggest a hierarchical classification system from general to specific.
 - Publication timestamps suggest tracking of news output in real-time.
 
+[BC_News_Data_Edited](/excel/BBC_News_Data_Edited.csv)
+
 ## 4. Data visualization
 ### Excel Dashboards 
 
@@ -115,7 +117,7 @@ BBC News Description Figure
 
 ## 5. Data analysis
 
-The dashboard images provided show various data visualizations related to BBC News topics and trends. 
+The Power BI dashboard images provided show various data visualizations related to BBC News topics and trends. 
 The key information from each section:
 
 ### 1. Trends of All News
