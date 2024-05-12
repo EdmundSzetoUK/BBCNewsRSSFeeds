@@ -115,4 +115,33 @@ BBC News Description Figure
 
 ## 5. Data analysis
 
+The dashboard images provided show various data visualizations related to BBC News topics and trends. 
+The key information from each section:
 
+### 1. Trends of All News
+- **Timeline Trends**:
+  - There are fluctuations in news topic counts over time with noticeable peaks and troughs, such as a sharp decline in January 2023 and peaks around July 2023 and January 2024.
+  
+- **Quarterly Trends**:
+  - **Q4 2022 to Q1 2023**: A significant decrease in news coverage, with a notable drop from December to January.
+  - **Q3 to Q4 2023**: A period of increase in topics.
+  - **Q1 to Q2 2024**: There's a general downward trend across multiple categories.
+
+### 2. Overview of BBC News Topics
+- **Total Number of BBC News Topics**: 25.92K topics are categorized, with the majority under "news" (25.92K) and "sport" (6.64K).
+- **News Topic Categories**:
+  - **UK**: The most significant share of news topics falls under UK news, making up 38% of the coverage.
+  - **World**: Following the UK, world news constitutes 33%.
+  - Other categories like entertainment, business, and technology have smaller shares.
+  
+- **Trending Topics**:
+  - The most frequently covered topic is the "Ukraine war", followed by general news updates such as "The Papers", "Watch", and "Cost of living".
+  
+- **Treemap of News Topics**:
+  - The treemap confirms the dominance of UK news within the "news" category, with "England" and specific cities like "London" and "Manchester" being highlighted.
+
+### Summary of Analysis:
+- There is a clear focus on UK-centric news within BBC's coverage, with a substantial proportion of topics relating to domestic affairs.
+- The news volume fluctuates seasonally with specific increases likely tied to significant world and local events.
+- The trend data indicates variability in news topic coverage with periodic assessments likely showing correlation with ongoing events and news cycles at those times.
+  
