@@ -1,5 +1,5 @@
 
-# BBCNewsRSSFeeds
+# BBC News RSS Feeds
 BBC News RSS feeds data analysis
 
 ##  1. Understanding the business problem
